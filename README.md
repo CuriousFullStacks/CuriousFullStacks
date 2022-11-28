@@ -2,5 +2,3 @@ Hi, I'm CuriousFullStacks! I'm Currently going through CS50's intro course, as w
 -
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriousFullStacks&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-Contact me at: curiousfullstacks@outlook.com or any of my linked social medias!
