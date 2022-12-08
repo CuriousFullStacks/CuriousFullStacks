@@ -2,6 +2,6 @@ Hi, I'm CuriousFullStacks! I'm currently going through CS50's intro course, as w
 -
 
 
-|  | |
+| Most Used Languages  | Coding Time |
 | ------------- | ------------- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriousFullStacks&theme=transparent&title_color=427aa5)](https://github.com/anuraghazra/github-readme-stats)  | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CuriousFullStacks&api_domain=wakapi.dev&custom_title=Coding%20Time&theme=transparent&layout=compact&title_color=427aa5&text_color=c7c7c7&range=all_time&hide=INI)](https://github.com/anuraghazra/github-readme-stats)|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriousFullStacks&theme=transparent&title_color=427aa5&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)  | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CuriousFullStacks&api_domain=wakapi.dev&custom_title=Coding%20Time&theme=transparent&layout=compact&text_color=c7c7c7&range=all_time&hide=INI&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)|
